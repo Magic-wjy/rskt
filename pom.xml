@@ -4,13 +4,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	
-    <groupId>com.ruoyi</groupId>
+    <groupId>com.rskt</groupId>
     <artifactId>rskt</artifactId>
     <version>3.8.5</version>
 
-    <name>ruoyi</name>
+    <name>rskt</name>
     <url>http://www.ruoyi.vip</url>
-    <description>若依管理系统</description>
+    <description>空调管理</description>
     
     <properties>
         <ruoyi.version>3.8.5</ruoyi.version>
@@ -145,36 +145,36 @@
 
             <!-- 定时任务-->
             <dependency>
-                <groupId>com.ruoyi</groupId>
-                <artifactId>ruoyi-quartz</artifactId>
+                <groupId>com.rskt</groupId>
+                <artifactId>rskt-quartz</artifactId>
                 <version>${ruoyi.version}</version>
             </dependency>
 
             <!-- 代码生成-->
             <dependency>
-                <groupId>com.ruoyi</groupId>
-                <artifactId>ruoyi-generator</artifactId>
+                <groupId>com.rskt</groupId>
+                <artifactId>rskt-generator</artifactId>
                 <version>${ruoyi.version}</version>
             </dependency>
 
             <!-- 核心模块-->
             <dependency>
-                <groupId>com.ruoyi</groupId>
-                <artifactId>ruoyi-framework</artifactId>
+                <groupId>com.rskt</groupId>
+                <artifactId>rskt-framework</artifactId>
                 <version>${ruoyi.version}</version>
             </dependency>
 
             <!-- 系统模块-->
             <dependency>
-                <groupId>com.ruoyi</groupId>
-                <artifactId>ruoyi-system</artifactId>
+                <groupId>com.rskt</groupId>
+                <artifactId>rskt-system</artifactId>
                 <version>${ruoyi.version}</version>
             </dependency>
 
             <!-- 通用工具-->
             <dependency>
-                <groupId>com.ruoyi</groupId>
-                <artifactId>ruoyi-common</artifactId>
+                <groupId>com.rskt</groupId>
+                <artifactId>rskt-common</artifactId>
                 <version>${ruoyi.version}</version>
             </dependency>
 
@@ -182,12 +182,12 @@
     </dependencyManagement>
 
     <modules>
-        <module>ruoyi-admin</module>
-        <module>ruoyi-framework</module>
-        <module>ruoyi-system</module>
-        <module>ruoyi-quartz</module>
-        <module>ruoyi-generator</module>
-        <module>ruoyi-common</module>
+        <module>rskt-admin</module>
+        <module>rskt-framework</module>
+        <module>rskt-system</module>
+        <module>rskt-quartz</module>
+        <module>rskt-generator</module>
+        <module>rskt-common</module>
     </modules>
     <packaging>pom</packaging>
 
