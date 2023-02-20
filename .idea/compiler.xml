@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="rskt-common" />
+        <module name="rskt-generator" />
+        <module name="rskt-framework" />
+        <module name="rskt-quartz" />
+        <module name="rskt-admin" />
+        <module name="rskt-system" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="rskt" target="1.8" />
+      <module name="rskt-admin" target="1.8" />
+      <module name="rskt-common" target="1.8" />
+      <module name="rskt-framework" target="1.8" />
+      <module name="rskt-generator" target="1.8" />
+      <module name="rskt-quartz" target="1.8" />
+      <module name="rskt-system" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

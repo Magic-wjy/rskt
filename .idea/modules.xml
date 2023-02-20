@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rskt.iml" filepath="$PROJECT_DIR$/rskt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rskt-admin/rskt-admin.iml" filepath="$PROJECT_DIR$/rskt-admin/rskt-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rskt-common/rskt-common.iml" filepath="$PROJECT_DIR$/rskt-common/rskt-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rskt-framework/rskt-framework.iml" filepath="$PROJECT_DIR$/rskt-framework/rskt-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rskt-generator/rskt-generator.iml" filepath="$PROJECT_DIR$/rskt-generator/rskt-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rskt-quartz/rskt-quartz.iml" filepath="$PROJECT_DIR$/rskt-quartz/rskt-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rskt-system/rskt-system.iml" filepath="$PROJECT_DIR$/rskt-system/rskt-system.iml" />
+    </modules>
+  </component>
+</project>
