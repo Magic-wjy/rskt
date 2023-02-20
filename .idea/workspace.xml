@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="143e371c-d87a-4a4f-b560-00ef8a2064c2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson2_fastjson2_2_0_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_dynamic_datasource_spring_boot_starter_3_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_12_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_12_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_12_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_12_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_12_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_12_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_oshi_oshi_core_6_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_autoconfigure_1_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_starter_1_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_06.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jhlabs_filters_2_0_235_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_4_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_SparseBitSet_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__eu_bitwalker_UserAgentUtils_1_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_classgraph_classgraph_4_8_83.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_6_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_77_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_77_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_77_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_77_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_77_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_77_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_4_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_bean_validators_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_boot_starter_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_data_rest_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_oas_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_webflux_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_webmvc_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_core_v3_swagger_annotations_2_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_core_v3_swagger_models_2_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_5_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_platform_5_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_17_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_17_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_63.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_63.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_63.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_engine_core_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_2_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_3_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_quartz_scheduler_quartz_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_36.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_36.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_5_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_5_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_5_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_5_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_5_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_5_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_5_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_5_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_5_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_5_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_5_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_5_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_5_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_5_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_5_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_5_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_5_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_3_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_3_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_3_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__pro_fessional_kaptcha_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rskt-admin/rskt-admin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rskt-admin/src/main/java/com/rskt/RsktApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rskt-common/rskt-common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rskt-framework/rskt-framework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rskt-generator/rskt-generator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rskt-quartz/rskt-quartz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rskt-system/rskt-system.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rskt.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-admin/src/main/java/com/ruoyi/RuoYiApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-admin/src/main/java/com/ruoyi/RuoYiServletInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-admin/src/main/java/com/rskt/RsktServletInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-admin/src/main/java/com/ruoyi/web/controller/common/CaptchaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-admin/src/main/java/com/rskt/web/controller/common/CaptchaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-admin/src/main/java/com/ruoyi/web/controller/common/CommonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-admin/src/main/java/com/rskt/web/controller/common/CommonController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-admin/src/main/java/com/ruoyi/web/controller/monitor/CacheController.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-admin/src/main/java/com/rskt/web/controller/monitor/CacheController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-admin/src/main/java/com/ruoyi/web/controller/monitor/ServerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-admin/src/main/java/com/rskt/web/controller/monitor/ServerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-admin/src/main/java/com/ruoyi/web/controller/monitor/SysLogininforController.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-admin/src/main/java/com/rskt/web/controller/monitor/SysLogininforController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-admin/src/main/java/com/ruoyi/web/controller/monitor/SysOperlogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-admin/src/main/java/com/rskt/web/controller/monitor/SysOperlogController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-admin/src/main/java/com/ruoyi/web/controller/monitor/SysUserOnlineController.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-admin/src/main/java/com/rskt/web/controller/monitor/SysUserOnlineController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-admin/src/main/java/com/ruoyi/web/controller/system/SysConfigController.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-admin/src/main/java/com/rskt/web/controller/system/SysConfigController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-admin/src/main/java/com/ruoyi/web/controller/system/SysDeptController.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-admin/src/main/java/com/rskt/web/controller/system/SysDeptController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-admin/src/main/java/com/ruoyi/web/controller/system/SysDictDataController.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-admin/src/main/java/com/rskt/web/controller/system/SysDictDataController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-admin/src/main/java/com/ruoyi/web/controller/system/SysDictTypeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-admin/src/main/java/com/rskt/web/controller/system/SysDictTypeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-admin/src/main/java/com/ruoyi/web/controller/system/SysIndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-admin/src/main/java/com/rskt/web/controller/system/SysIndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-admin/src/main/java/com/ruoyi/web/controller/system/SysLoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-admin/src/main/java/com/rskt/web/controller/system/SysLoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-admin/src/main/java/com/ruoyi/web/controller/system/SysMenuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-admin/src/main/java/com/rskt/web/controller/system/SysMenuController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-admin/src/main/java/com/ruoyi/web/controller/system/SysNoticeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-admin/src/main/java/com/rskt/web/controller/system/SysNoticeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-admin/src/main/java/com/ruoyi/web/controller/system/SysPostController.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-admin/src/main/java/com/rskt/web/controller/system/SysPostController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-admin/src/main/java/com/ruoyi/web/controller/system/SysProfileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-admin/src/main/java/com/rskt/web/controller/system/SysProfileController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-admin/src/main/java/com/ruoyi/web/controller/system/SysRegisterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-admin/src/main/java/com/rskt/web/controller/system/SysRegisterController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-admin/src/main/java/com/ruoyi/web/controller/system/SysRoleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-admin/src/main/java/com/rskt/web/controller/system/SysRoleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-admin/src/main/java/com/ruoyi/web/controller/system/SysUserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-admin/src/main/java/com/rskt/web/controller/system/SysUserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-admin/src/main/java/com/ruoyi/web/controller/tool/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-admin/src/main/java/com/rskt/web/controller/tool/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-admin/src/main/java/com/ruoyi/web/core/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-admin/src/main/java/com/rskt/web/core/config/SwaggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-admin/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-admin/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-admin/src/main/resources/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-admin/src/main/resources/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/annotation/Anonymous.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/annotation/Anonymous.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/annotation/DataScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/annotation/DataScope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/annotation/DataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/annotation/DataSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/annotation/Excel.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/annotation/Excel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/annotation/Excels.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/annotation/Excels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/annotation/Log.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/annotation/Log.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/annotation/RateLimiter.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/annotation/RateLimiter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/annotation/RepeatSubmit.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/annotation/RepeatSubmit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/config/RuoYiConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/config/RuoYiConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/constant/CacheConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/constant/CacheConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/constant/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/constant/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/constant/GenConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/constant/GenConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/constant/HttpStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/constant/HttpStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/constant/ScheduleConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/constant/ScheduleConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/constant/UserConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/constant/UserConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/core/controller/BaseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/core/controller/BaseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/core/domain/AjaxResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/core/domain/AjaxResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/core/domain/BaseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/core/domain/BaseEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/core/domain/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/core/domain/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/core/domain/TreeEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/core/domain/TreeEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/core/domain/TreeSelect.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/core/domain/TreeSelect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/core/domain/entity/SysDept.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/core/domain/entity/SysDept.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/core/domain/entity/SysDictData.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/core/domain/entity/SysDictData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/core/domain/entity/SysDictType.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/core/domain/entity/SysDictType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/core/domain/entity/SysMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/core/domain/entity/SysMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/core/domain/entity/SysRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/core/domain/entity/SysRole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/core/domain/entity/SysUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/core/domain/entity/SysUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/core/domain/model/LoginBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/core/domain/model/LoginBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/core/domain/model/LoginUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/core/domain/model/LoginUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/core/domain/model/RegisterBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/core/domain/model/RegisterBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/core/page/PageDomain.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/core/page/PageDomain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/core/page/TableDataInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/core/page/TableDataInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/core/page/TableSupport.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/core/page/TableSupport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/core/redis/RedisCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/core/redis/RedisCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/core/text/CharsetKit.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/core/text/CharsetKit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/core/text/Convert.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/core/text/Convert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/core/text/StrFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/core/text/StrFormatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/enums/BusinessStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/enums/BusinessStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/enums/BusinessType.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/enums/BusinessType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/enums/DataSourceType.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/enums/DataSourceType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/enums/HttpMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/enums/HttpMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/enums/LimitType.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/enums/LimitType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/enums/OperatorType.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/enums/OperatorType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/enums/UserStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/enums/UserStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/exception/DemoModeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/exception/DemoModeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/exception/GlobalException.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/exception/GlobalException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/exception/ServiceException.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/exception/ServiceException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/exception/UtilException.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/exception/UtilException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/exception/base/BaseException.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/exception/base/BaseException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/exception/file/FileException.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/exception/file/FileException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/exception/file/FileNameLengthLimitExceededException.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/exception/file/FileNameLengthLimitExceededException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/exception/file/FileSizeLimitExceededException.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/exception/file/FileSizeLimitExceededException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/exception/file/InvalidExtensionException.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/exception/file/InvalidExtensionException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/exception/job/TaskException.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/exception/job/TaskException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/exception/user/CaptchaException.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/exception/user/CaptchaException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/exception/user/CaptchaExpireException.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/exception/user/CaptchaExpireException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/exception/user/UserException.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/exception/user/UserException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/exception/user/UserPasswordNotMatchException.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/exception/user/UserPasswordNotMatchException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/exception/user/UserPasswordRetryLimitExceedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/exception/user/UserPasswordRetryLimitExceedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/filter/PropertyPreExcludeFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/filter/PropertyPreExcludeFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/filter/RepeatableFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/filter/RepeatableFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/filter/RepeatedlyRequestWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/filter/RepeatedlyRequestWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/filter/XssFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/filter/XssFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/filter/XssHttpServletRequestWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/filter/XssHttpServletRequestWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/utils/Arith.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/utils/Arith.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/utils/DateUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/utils/DateUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/utils/DictUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/utils/DictUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/utils/ExceptionUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/utils/ExceptionUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/utils/LogUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/utils/LogUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/utils/MessageUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/utils/MessageUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/utils/PageUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/utils/PageUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/utils/SecurityUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/utils/SecurityUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/utils/ServletUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/utils/ServletUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/utils/StringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/utils/StringUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/utils/Threads.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/utils/Threads.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/utils/bean/BeanUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/utils/bean/BeanUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/utils/bean/BeanValidators.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/utils/bean/BeanValidators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/utils/file/FileTypeUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/utils/file/FileTypeUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/utils/file/FileUploadUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/utils/file/FileUploadUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/utils/file/FileUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/utils/file/FileUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/utils/file/ImageUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/utils/file/ImageUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/utils/file/MimeTypeUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/utils/file/MimeTypeUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/utils/html/EscapeUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/utils/html/EscapeUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/utils/html/HTMLFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/utils/html/HTMLFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/utils/http/HttpHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/utils/http/HttpHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/utils/http/HttpUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/utils/http/HttpUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/utils/ip/AddressUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/utils/ip/AddressUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/utils/ip/IpUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/utils/ip/IpUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/utils/poi/ExcelHandlerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/utils/poi/ExcelHandlerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/utils/poi/ExcelUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/utils/poi/ExcelUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/utils/reflect/ReflectUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/utils/reflect/ReflectUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/utils/sign/Base64.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/utils/sign/Base64.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/utils/sign/Md5Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/utils/sign/Md5Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/utils/spring/SpringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/utils/spring/SpringUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/utils/sql/SqlUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/utils/sql/SqlUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/utils/uuid/IdUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/utils/uuid/IdUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/utils/uuid/Seq.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/utils/uuid/Seq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/utils/uuid/UUID.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/utils/uuid/UUID.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/xss/Xss.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/xss/Xss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-common/src/main/java/com/ruoyi/common/xss/XssValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-common/src/main/java/com/rskt/common/xss/XssValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/aspectj/DataScopeAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/aspectj/DataScopeAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/aspectj/DataSourceAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/aspectj/DataSourceAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/aspectj/LogAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/aspectj/LogAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/aspectj/RateLimiterAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/aspectj/RateLimiterAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/config/ApplicationConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/config/ApplicationConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/config/CaptchaConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/config/CaptchaConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/config/DruidConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/config/DruidConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/config/FastJson2JsonRedisSerializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/config/FastJson2JsonRedisSerializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/config/FilterConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/config/FilterConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/config/KaptchaTextCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/config/KaptchaTextCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/config/MyBatisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/config/MyBatisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/config/RedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/config/RedisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/config/ResourcesConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/config/ResourcesConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/config/ServerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/config/ServerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/config/ThreadPoolConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/config/ThreadPoolConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/config/properties/DruidProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/config/properties/DruidProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/config/properties/PermitAllUrlProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/config/properties/PermitAllUrlProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/datasource/DynamicDataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/datasource/DynamicDataSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/datasource/DynamicDataSourceContextHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/datasource/DynamicDataSourceContextHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/interceptor/RepeatSubmitInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/interceptor/RepeatSubmitInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/interceptor/impl/SameUrlDataInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/interceptor/impl/SameUrlDataInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/manager/AsyncManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/manager/AsyncManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/manager/ShutdownManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/manager/ShutdownManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/manager/factory/AsyncFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/manager/factory/AsyncFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/security/context/AuthenticationContextHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/security/context/AuthenticationContextHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/security/context/PermissionContextHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/security/context/PermissionContextHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/security/filter/JwtAuthenticationTokenFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/security/filter/JwtAuthenticationTokenFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/security/handle/AuthenticationEntryPointImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/security/handle/AuthenticationEntryPointImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/security/handle/LogoutSuccessHandlerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/security/handle/LogoutSuccessHandlerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/web/domain/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/web/domain/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/web/domain/server/Cpu.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/web/domain/server/Cpu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/web/domain/server/Jvm.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/web/domain/server/Jvm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/web/domain/server/Mem.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/web/domain/server/Mem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/web/domain/server/Sys.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/web/domain/server/Sys.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/web/domain/server/SysFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/web/domain/server/SysFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/web/exception/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/web/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/web/service/PermissionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/web/service/PermissionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/web/service/SysLoginService.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/web/service/SysLoginService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/web/service/SysPasswordService.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/web/service/SysPasswordService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/web/service/SysPermissionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/web/service/SysPermissionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/web/service/SysRegisterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/web/service/SysRegisterService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/web/service/TokenService.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/web/service/TokenService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-framework/src/main/java/com/ruoyi/framework/web/service/UserDetailsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-framework/src/main/java/com/rskt/framework/web/service/UserDetailsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-generator/src/main/java/com/ruoyi/generator/config/GenConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-generator/src/main/java/com/rskt/generator/config/GenConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-generator/src/main/java/com/ruoyi/generator/controller/GenController.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-generator/src/main/java/com/rskt/generator/controller/GenController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-generator/src/main/java/com/ruoyi/generator/domain/GenTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-generator/src/main/java/com/rskt/generator/domain/GenTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-generator/src/main/java/com/ruoyi/generator/domain/GenTableColumn.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-generator/src/main/java/com/rskt/generator/domain/GenTableColumn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-generator/src/main/java/com/ruoyi/generator/mapper/GenTableColumnMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-generator/src/main/java/com/rskt/generator/mapper/GenTableColumnMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-generator/src/main/java/com/ruoyi/generator/mapper/GenTableMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-generator/src/main/java/com/rskt/generator/mapper/GenTableMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-generator/src/main/java/com/ruoyi/generator/service/GenTableColumnServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-generator/src/main/java/com/rskt/generator/service/GenTableColumnServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-generator/src/main/java/com/ruoyi/generator/service/GenTableServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-generator/src/main/java/com/rskt/generator/service/GenTableServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-generator/src/main/java/com/ruoyi/generator/service/IGenTableColumnService.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-generator/src/main/java/com/rskt/generator/service/IGenTableColumnService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-generator/src/main/java/com/ruoyi/generator/service/IGenTableService.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-generator/src/main/java/com/rskt/generator/service/IGenTableService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-generator/src/main/java/com/ruoyi/generator/util/GenUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-generator/src/main/java/com/rskt/generator/util/GenUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-generator/src/main/java/com/ruoyi/generator/util/VelocityInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-generator/src/main/java/com/rskt/generator/util/VelocityInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-generator/src/main/java/com/ruoyi/generator/util/VelocityUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-generator/src/main/java/com/rskt/generator/util/VelocityUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-generator/src/main/resources/generator.yml" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-generator/src/main/resources/generator.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-generator/src/main/resources/mapper/generator/GenTableColumnMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-generator/src/main/resources/mapper/generator/GenTableColumnMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-generator/src/main/resources/mapper/generator/GenTableMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-generator/src/main/resources/mapper/generator/GenTableMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-generator/src/main/resources/vm/java/controller.java.vm" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-generator/src/main/resources/vm/java/controller.java.vm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-generator/src/main/resources/vm/java/domain.java.vm" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-generator/src/main/resources/vm/java/domain.java.vm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-generator/src/main/resources/vm/java/serviceImpl.java.vm" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-generator/src/main/resources/vm/java/serviceImpl.java.vm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-generator/src/main/resources/vm/java/sub-domain.java.vm" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-generator/src/main/resources/vm/java/sub-domain.java.vm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-quartz/src/main/java/com/ruoyi/quartz/config/ScheduleConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-quartz/src/main/java/com/rskt/quartz/config/ScheduleConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-quartz/src/main/java/com/ruoyi/quartz/controller/SysJobController.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-quartz/src/main/java/com/rskt/quartz/controller/SysJobController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-quartz/src/main/java/com/ruoyi/quartz/controller/SysJobLogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-quartz/src/main/java/com/rskt/quartz/controller/SysJobLogController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-quartz/src/main/java/com/ruoyi/quartz/domain/SysJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-quartz/src/main/java/com/rskt/quartz/domain/SysJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-quartz/src/main/java/com/ruoyi/quartz/domain/SysJobLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-quartz/src/main/java/com/rskt/quartz/domain/SysJobLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-quartz/src/main/java/com/ruoyi/quartz/mapper/SysJobLogMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-quartz/src/main/java/com/rskt/quartz/mapper/SysJobLogMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-quartz/src/main/java/com/ruoyi/quartz/mapper/SysJobMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-quartz/src/main/java/com/rskt/quartz/mapper/SysJobMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-quartz/src/main/java/com/ruoyi/quartz/service/ISysJobLogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-quartz/src/main/java/com/rskt/quartz/service/ISysJobLogService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-quartz/src/main/java/com/ruoyi/quartz/service/ISysJobService.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-quartz/src/main/java/com/rskt/quartz/service/ISysJobService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-quartz/src/main/java/com/ruoyi/quartz/service/impl/SysJobLogServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-quartz/src/main/java/com/rskt/quartz/service/impl/SysJobLogServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-quartz/src/main/java/com/ruoyi/quartz/service/impl/SysJobServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-quartz/src/main/java/com/rskt/quartz/service/impl/SysJobServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-quartz/src/main/java/com/ruoyi/quartz/task/RyTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-quartz/src/main/java/com/rskt/quartz/task/RyTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-quartz/src/main/java/com/ruoyi/quartz/util/AbstractQuartzJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-quartz/src/main/java/com/rskt/quartz/util/AbstractQuartzJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-quartz/src/main/java/com/ruoyi/quartz/util/CronUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-quartz/src/main/java/com/rskt/quartz/util/CronUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-quartz/src/main/java/com/ruoyi/quartz/util/JobInvokeUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-quartz/src/main/java/com/rskt/quartz/util/JobInvokeUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-quartz/src/main/java/com/ruoyi/quartz/util/QuartzDisallowConcurrentExecution.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-quartz/src/main/java/com/rskt/quartz/util/QuartzDisallowConcurrentExecution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-quartz/src/main/java/com/ruoyi/quartz/util/QuartzJobExecution.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-quartz/src/main/java/com/rskt/quartz/util/QuartzJobExecution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-quartz/src/main/java/com/ruoyi/quartz/util/ScheduleUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-quartz/src/main/java/com/rskt/quartz/util/ScheduleUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-quartz/src/main/resources/mapper/quartz/SysJobLogMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-quartz/src/main/resources/mapper/quartz/SysJobLogMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-quartz/src/main/resources/mapper/quartz/SysJobMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-quartz/src/main/resources/mapper/quartz/SysJobMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/domain/SysCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/domain/SysCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/domain/SysConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/domain/SysConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/domain/SysLogininfor.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/domain/SysLogininfor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/domain/SysNotice.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/domain/SysNotice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/domain/SysOperLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/domain/SysOperLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/domain/SysPost.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/domain/SysPost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/domain/SysRoleDept.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/domain/SysRoleDept.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/domain/SysRoleMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/domain/SysRoleMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/domain/SysUserOnline.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/domain/SysUserOnline.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/domain/SysUserPost.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/domain/SysUserPost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/domain/SysUserRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/domain/SysUserRole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/domain/vo/MetaVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/domain/vo/MetaVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/domain/vo/RouterVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/domain/vo/RouterVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/mapper/SysConfigMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/mapper/SysConfigMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/mapper/SysDeptMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/mapper/SysDeptMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/mapper/SysDictDataMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/mapper/SysDictDataMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/mapper/SysDictTypeMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/mapper/SysDictTypeMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/mapper/SysLogininforMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/mapper/SysLogininforMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/mapper/SysMenuMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/mapper/SysMenuMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/mapper/SysNoticeMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/mapper/SysNoticeMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/mapper/SysOperLogMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/mapper/SysOperLogMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/mapper/SysPostMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/mapper/SysPostMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/mapper/SysRoleDeptMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/mapper/SysRoleDeptMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/mapper/SysRoleMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/mapper/SysRoleMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/mapper/SysRoleMenuMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/mapper/SysRoleMenuMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/mapper/SysUserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/mapper/SysUserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/mapper/SysUserPostMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/mapper/SysUserPostMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/mapper/SysUserRoleMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/mapper/SysUserRoleMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/service/ISysConfigService.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/service/ISysConfigService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/service/ISysDeptService.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/service/ISysDeptService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/service/ISysDictDataService.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/service/ISysDictDataService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/service/ISysDictTypeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/service/ISysDictTypeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/service/ISysLogininforService.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/service/ISysLogininforService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/service/ISysMenuService.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/service/ISysMenuService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/service/ISysNoticeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/service/ISysNoticeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/service/ISysOperLogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/service/ISysOperLogService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/service/ISysPostService.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/service/ISysPostService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/service/ISysRoleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/service/ISysRoleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/service/ISysUserOnlineService.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/service/ISysUserOnlineService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/service/ISysUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/service/ISysUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/service/impl/SysConfigServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/service/impl/SysConfigServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/service/impl/SysDeptServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/service/impl/SysDeptServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/service/impl/SysDictDataServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/service/impl/SysDictDataServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/service/impl/SysDictTypeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/service/impl/SysDictTypeServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/service/impl/SysLogininforServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/service/impl/SysLogininforServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/service/impl/SysMenuServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/service/impl/SysMenuServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/service/impl/SysNoticeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/service/impl/SysNoticeServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/service/impl/SysOperLogServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/service/impl/SysOperLogServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/service/impl/SysPostServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/service/impl/SysPostServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/service/impl/SysRoleServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/service/impl/SysRoleServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/service/impl/SysUserOnlineServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/service/impl/SysUserOnlineServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/java/com/ruoyi/system/service/impl/SysUserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/java/com/rskt/system/service/impl/SysUserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/resources/mapper/system/SysConfigMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/resources/mapper/system/SysConfigMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/resources/mapper/system/SysDeptMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/resources/mapper/system/SysDeptMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/resources/mapper/system/SysDictDataMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/resources/mapper/system/SysDictDataMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/resources/mapper/system/SysDictTypeMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/resources/mapper/system/SysDictTypeMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/resources/mapper/system/SysLogininforMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/resources/mapper/system/SysLogininforMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/resources/mapper/system/SysMenuMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/resources/mapper/system/SysMenuMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/resources/mapper/system/SysNoticeMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/resources/mapper/system/SysNoticeMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/resources/mapper/system/SysOperLogMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/resources/mapper/system/SysOperLogMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/resources/mapper/system/SysPostMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/resources/mapper/system/SysPostMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/resources/mapper/system/SysRoleDeptMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/resources/mapper/system/SysRoleDeptMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/resources/mapper/system/SysRoleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/resources/mapper/system/SysRoleMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/resources/mapper/system/SysRoleMenuMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/resources/mapper/system/SysRoleMenuMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/resources/mapper/system/SysUserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/resources/mapper/system/SysUserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/resources/mapper/system/SysUserPostMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/resources/mapper/system/SysUserPostMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rskt-system/src/main/resources/mapper/system/SysUserRoleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rskt-system/src/main/resources/mapper/system/SysUserRoleMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruoyi-ui/src/views/monitor/job/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ruoyi-ui/src/views/monitor/job/index.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LqQ95I6md1Vu5iLRBFHgPCczIl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/wangjiayuan/workspace/java/rskt",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.tabs",
+    "spring.configuration.checksum": "50e63ea3d6b99df8e5c4344266ef265e"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="RsktApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="ACTIVE_PROFILES" />
+      <module name="rskt-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rskt.RsktApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rskt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.RsktApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="143e371c-d87a-4a4f-b560-00ef8a2064c2" name="Changes" comment="" />
+      <created>1676595978621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676595978621</updated>
+      <workItem from="1676595979967" duration="1358000" />
+      <workItem from="1676602677592" duration="1188000" />
+      <workItem from="1676855669229" duration="1566000" />
+      <workItem from="1676857715469" duration="610000" />
+      <workItem from="1676858332975" duration="902000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

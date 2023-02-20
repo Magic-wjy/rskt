@@ -1,0 +1,161 @@
+09:45:34.030 [restartedMain] INFO  c.r.RsktApplication - [logStarting,55] - Starting RsktApplication using Java 1.8.0_341 on wjy-2.local with PID 2526 (/Users/wangjiayuan/workspace/java/rskt/rskt-admin/target/classes started by wangjiayuan in /Users/wangjiayuan/workspace/java/rskt)
+09:45:34.033 [restartedMain] INFO  c.r.RsktApplication - [logStartupProfileInfo,686] - The following 1 profile is active: "druid"
+09:45:34.340 [restartedMain] INFO  c.r.RsktApplication - [logStarting,55] - Starting RsktApplication using Java 1.8.0_341 on wjy-2.local with PID 4955 (/Users/wangjiayuan/workspace/java/rskt/rskt-admin/target/classes started by wangjiayuan in /Users/wangjiayuan/workspace/java/rskt)
+09:45:34.356 [restartedMain] INFO  c.r.RsktApplication - [logStartupProfileInfo,686] - The following 1 profile is active: "druid"
+09:45:34.438 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.3.Final
+09:45:34.877 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+09:45:34.878 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.63]
+09:45:34.888 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+09:45:37.340 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+09:45:37.341 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+09:45:37.341 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.63]
+09:45:37.427 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+09:45:37.537 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,985] - {dataSource-7} inited
+09:45:37.600 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+09:45:38.854 [restartedMain] INFO  o.q.i.StdSchedulerFactory - [instantiate,1220] - Using default implementation for ThreadExecutor
+09:45:38.890 [restartedMain] INFO  o.q.c.SchedulerSignalerImpl - [<init>,61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+09:45:38.891 [restartedMain] INFO  o.q.c.QuartzScheduler - [<init>,229] - Quartz Scheduler v.2.3.2 created.
+09:45:38.891 [restartedMain] INFO  o.q.s.RAMJobStore - [initialize,155] - RAMJobStore initialized.
+09:45:38.891 [restartedMain] INFO  o.q.c.QuartzScheduler - [initialize,294] - Scheduler meta-data: Quartz Scheduler (v2.3.2) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+09:45:38.891 [restartedMain] INFO  o.q.i.StdSchedulerFactory - [instantiate,1374] - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+09:45:38.891 [restartedMain] INFO  o.q.i.StdSchedulerFactory - [instantiate,1378] - Quartz scheduler version: 2.3.2
+09:45:38.891 [restartedMain] INFO  o.q.c.QuartzScheduler - [setJobFactory,2293] - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@3999f225
+09:45:40.698 [restartedMain] INFO  o.q.c.QuartzScheduler - [start,547] - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+09:45:40.704 [restartedMain] INFO  c.r.RsktApplication - [logStarted,61] - Started RsktApplication in 6.849 seconds (JVM running for 1499.11)
+09:46:29.949 [SpringApplicationShutdownHook] INFO  o.q.c.QuartzScheduler - [standby,585] - Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+09:46:30.007 [SpringApplicationShutdownHook] INFO  o.q.c.QuartzScheduler - [shutdown,666] - Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+09:46:30.009 [SpringApplicationShutdownHook] INFO  o.q.c.QuartzScheduler - [standby,585] - Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+09:46:30.009 [SpringApplicationShutdownHook] INFO  o.q.c.QuartzScheduler - [shutdown,740] - Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.
+09:46:30.010 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,32] - ====关闭后台任务任务线程池====
+09:46:30.017 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2105] - {dataSource-7} closing ...
+09:46:30.031 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2178] - {dataSource-7} closed
+09:46:46.584 [restartedMain] INFO  c.r.RsktApplication - [logStarting,55] - Starting RsktApplication using Java 1.8.0_341 on wjy-2.local with PID 5088 (/Users/wangjiayuan/workspace/java/rskt/rskt-admin/target/classes started by wangjiayuan in /Users/wangjiayuan/workspace/java/rskt)
+09:46:46.591 [restartedMain] INFO  c.r.RsktApplication - [logStartupProfileInfo,686] - The following 1 profile is active: "druid"
+09:46:46.596 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.3.Final
+09:46:49.766 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+09:46:49.767 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+09:46:49.768 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.63]
+09:46:49.851 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+09:46:50.020 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+09:47:59.979 [restartedMain] INFO  c.r.RsktApplication - [logStarting,55] - Starting RsktApplication using Java 1.8.0_341 on wjy-2.local with PID 5242 (/Users/wangjiayuan/workspace/java/rskt/rskt-admin/target/classes started by wangjiayuan in /Users/wangjiayuan/workspace/java/rskt)
+09:47:59.988 [restartedMain] INFO  c.r.RsktApplication - [logStartupProfileInfo,686] - The following 1 profile is active: "druid"
+09:48:00.071 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.3.Final
+09:48:02.772 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+09:48:02.773 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+09:48:02.774 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.63]
+09:48:02.849 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+09:48:03.025 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+09:49:05.406 [restartedMain] INFO  c.r.RsktApplication - [logStarting,55] - Starting RsktApplication using Java 1.8.0_341 on wjy-2.local with PID 5417 (/Users/wangjiayuan/workspace/java/rskt/rskt-admin/target/classes started by wangjiayuan in /Users/wangjiayuan/workspace/java/rskt)
+09:49:05.413 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.3.Final
+09:49:05.417 [restartedMain] INFO  c.r.RsktApplication - [logStartupProfileInfo,686] - The following 1 profile is active: "druid"
+09:49:08.154 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+09:49:08.155 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+09:49:08.156 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.63]
+09:49:08.229 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+09:49:08.362 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+09:49:46.645 [restartedMain] INFO  c.r.RsktApplication - [logStarting,55] - Starting RsktApplication using Java 1.8.0_341 on wjy-2.local with PID 5494 (/Users/wangjiayuan/workspace/java/rskt/rskt-admin/target/classes started by wangjiayuan in /Users/wangjiayuan/workspace/java/rskt)
+09:49:46.652 [restartedMain] INFO  c.r.RsktApplication - [logStartupProfileInfo,686] - The following 1 profile is active: "druid"
+09:49:46.709 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.3.Final
+09:49:49.444 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+09:49:49.446 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+09:49:49.446 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.63]
+09:49:49.518 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+09:49:49.701 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+09:50:35.657 [restartedMain] INFO  c.r.RsktApplication - [logStarting,55] - Starting RsktApplication using Java 1.8.0_341 on wjy-2.local with PID 5611 (/Users/wangjiayuan/workspace/java/rskt/rskt-admin/target/classes started by wangjiayuan in /Users/wangjiayuan/workspace/java/rskt)
+09:50:35.663 [restartedMain] INFO  c.r.RsktApplication - [logStartupProfileInfo,686] - The following 1 profile is active: "druid"
+09:50:35.666 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.3.Final
+09:50:38.477 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+09:50:38.479 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+09:50:38.479 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.63]
+09:50:38.556 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+09:50:38.720 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+09:59:30.022 [restartedMain] INFO  c.r.RsktApplication - [logStarting,55] - Starting RsktApplication using Java 1.8.0_341 on wjy-2.local with PID 6666 (/Users/wangjiayuan/workspace/java/rskt/rskt-admin/target/classes started by wangjiayuan in /Users/wangjiayuan/workspace/java/rskt)
+09:59:30.029 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.3.Final
+09:59:30.030 [restartedMain] INFO  c.r.RsktApplication - [logStartupProfileInfo,686] - The following 1 profile is active: "druid"
+09:59:32.774 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+09:59:32.775 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+09:59:32.776 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.63]
+09:59:32.850 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+09:59:33.043 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+10:00:16.098 [restartedMain] INFO  c.r.RsktApplication - [logStarting,55] - Starting RsktApplication using Java 1.8.0_341 on wjy-2.local with PID 6771 (/Users/wangjiayuan/workspace/java/rskt/rskt-admin/target/classes started by wangjiayuan in /Users/wangjiayuan/workspace/java/rskt)
+10:00:16.099 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.3.Final
+10:00:16.104 [restartedMain] INFO  c.r.RsktApplication - [logStartupProfileInfo,686] - The following 1 profile is active: "druid"
+10:00:18.895 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+10:00:18.896 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+10:00:18.897 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.63]
+10:00:18.976 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+10:00:19.152 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+10:02:26.936 [restartedMain] INFO  c.r.RsktApplication - [logStarting,55] - Starting RsktApplication using Java 1.8.0_341 on wjy-2.local with PID 6992 (/Users/wangjiayuan/workspace/java/rskt/rskt-admin/target/classes started by wangjiayuan in /Users/wangjiayuan/workspace/java/rskt)
+10:02:26.938 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.3.Final
+10:02:26.944 [restartedMain] INFO  c.r.RsktApplication - [logStartupProfileInfo,686] - The following 1 profile is active: "druid"
+10:02:29.705 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+10:02:29.706 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+10:02:29.707 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.63]
+10:02:29.782 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+10:02:29.987 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+10:07:26.226 [restartedMain] INFO  c.r.RsktApplication - [logStarting,55] - Starting RsktApplication using Java 1.8.0_341 on wjy-2.local with PID 7560 (/Users/wangjiayuan/workspace/java/rskt/rskt-admin/target/classes started by wangjiayuan in /Users/wangjiayuan/workspace/java/rskt)
+10:07:26.231 [restartedMain] INFO  c.r.RsktApplication - [logStartupProfileInfo,686] - The following 1 profile is active: "druid"
+10:07:26.239 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.3.Final
+10:07:29.796 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+10:07:29.798 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+10:07:29.798 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.63]
+10:07:29.875 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+10:07:30.666 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+10:09:03.581 [restartedMain] INFO  c.r.RsktApplication - [logStarting,55] - Starting RsktApplication using Java 1.8.0_341 on wjy-2.local with PID 7735 (/Users/wangjiayuan/workspace/java/rskt/rskt-admin/target/classes started by wangjiayuan in /Users/wangjiayuan/workspace/java/rskt)
+10:09:03.588 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.3.Final
+10:09:03.590 [restartedMain] INFO  c.r.RsktApplication - [logStartupProfileInfo,686] - The following 1 profile is active: "druid"
+10:09:07.019 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+10:09:07.021 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+10:09:07.021 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.63]
+10:09:07.098 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+10:09:07.861 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+10:10:21.172 [restartedMain] INFO  c.r.RsktApplication - [logStarting,55] - Starting RsktApplication using Java 1.8.0_341 on wjy-2.local with PID 7899 (/Users/wangjiayuan/workspace/java/rskt/rskt-admin/target/classes started by wangjiayuan in /Users/wangjiayuan/workspace/java/rskt)
+10:10:21.181 [restartedMain] INFO  c.r.RsktApplication - [logStartupProfileInfo,686] - The following 1 profile is active: "druid"
+10:10:21.243 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.3.Final
+10:10:24.829 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+10:10:24.831 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+10:10:24.831 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.63]
+10:10:24.908 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+10:10:25.689 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+10:10:56.604 [restartedMain] INFO  c.r.RsktApplication - [logStarting,55] - Starting RsktApplication using Java 1.8.0_341 on wjy-2.local with PID 8106 (/Users/wangjiayuan/workspace/java/rskt/rskt-admin/target/classes started by wangjiayuan in /Users/wangjiayuan/workspace/java/rskt)
+10:10:56.610 [restartedMain] INFO  c.r.RsktApplication - [logStartupProfileInfo,686] - The following 1 profile is active: "druid"
+10:10:56.612 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.3.Final
+10:11:00.244 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+10:11:00.246 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+10:11:00.246 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.63]
+10:11:00.322 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+10:11:01.579 [restartedMain] INFO  c.a.d.p.DruidDataSource - [close,2105] - {dataSource-0} closing ...
+10:11:01.629 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+10:12:54.583 [restartedMain] INFO  c.r.RsktApplication - [logStarting,55] - Starting RsktApplication using Java 1.8.0_341 on wjy-2.local with PID 8401 (/Users/wangjiayuan/workspace/java/rskt/rskt-admin/target/classes started by wangjiayuan in /Users/wangjiayuan/workspace/java/rskt)
+10:12:54.590 [restartedMain] INFO  c.r.RsktApplication - [logStartupProfileInfo,686] - The following 1 profile is active: "druid"
+10:12:54.640 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.3.Final
+10:12:58.134 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+10:12:58.135 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+10:12:58.136 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.63]
+10:12:58.211 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+10:13:03.452 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,985] - {dataSource-1} inited
+10:13:06.122 [restartedMain] INFO  o.q.i.StdSchedulerFactory - [instantiate,1220] - Using default implementation for ThreadExecutor
+10:13:06.133 [restartedMain] INFO  o.q.c.SchedulerSignalerImpl - [<init>,61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+10:13:06.134 [restartedMain] INFO  o.q.c.QuartzScheduler - [<init>,229] - Quartz Scheduler v.2.3.2 created.
+10:13:06.134 [restartedMain] INFO  o.q.s.RAMJobStore - [initialize,155] - RAMJobStore initialized.
+10:13:06.135 [restartedMain] INFO  o.q.c.QuartzScheduler - [initialize,294] - Scheduler meta-data: Quartz Scheduler (v2.3.2) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+10:13:06.135 [restartedMain] INFO  o.q.i.StdSchedulerFactory - [instantiate,1374] - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+10:13:06.135 [restartedMain] INFO  o.q.i.StdSchedulerFactory - [instantiate,1378] - Quartz scheduler version: 2.3.2
+10:13:06.135 [restartedMain] INFO  o.q.c.QuartzScheduler - [setJobFactory,2293] - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@64c1ed3c
+10:13:08.249 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+10:13:08.668 [restartedMain] INFO  o.q.c.QuartzScheduler - [start,547] - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+10:13:08.686 [restartedMain] INFO  c.r.RsktApplication - [logStarted,61] - Started RsktApplication in 14.684 seconds (JVM running for 15.594)
