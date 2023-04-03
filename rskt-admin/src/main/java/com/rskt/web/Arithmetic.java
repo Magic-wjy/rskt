@@ -1,6 +1,11 @@
 package com.rskt.web;
 
+import com.rskt.framework.config.ThreadPoolConfig;
+import com.rskt.web.core.config.MyThread;
+import org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor;
 import org.springframework.stereotype.Component;
+
+import java.util.concurrent.ThreadPoolExecutor;
 
 /**
  * @author wangjiayuan
@@ -10,24 +15,24 @@ public class Arithmetic {
 
     public static void main(String args[]) throws InterruptedException {
         //多线程计算最小公约数最大公倍数
-//        ThreadPoolConfig threadPoolConfig = new ThreadPoolConfig();
-//        ThreadPoolTaskExecutor thread = threadPoolConfig.threadPoolTaskExecutor();
-//        int num = 100;
-//        System.out.println("开始计算");
-//        for (int i = 1; i < num; i++) {
-//                thread.submit(new MyThread(i,num));
-//        }
-//        ThreadPoolExecutor pool = thread.getThreadPoolExecutor();
-//        int a=0;
-//        while (pool.getCompletedTaskCount() != num-1){
-//            if (a%100 == 0){
-//                System.out.println("子线程还在运行");
-//            }
-//            Thread.sleep(1000);
-//            a++;
-//        }
-//        System.out.println("计算结束");
-//        thread.shutdown();
+        ThreadPoolConfig threadPoolConfig = new ThreadPoolConfig();
+        ThreadPoolTaskExecutor thread = threadPoolConfig.threadPoolTaskExecutor();
+        int num = 10000;
+        System.out.println("开始计算");
+        for (int i = 1; i < num; i++) {
+                thread.submit(new MyThread(i,num));
+        }
+        ThreadPoolExecutor pool = thread.getThreadPoolExecutor();
+        int a=0;
+        while (pool.getCompletedTaskCount() != num-1){
+            if (a%100 == 0){
+                System.out.println("子线程还在运行");
+            }
+            Thread.sleep(1000);
+            a++;
+        }
+        System.out.println("计算结束");
+        thread.shutdown();
 
     }
 
