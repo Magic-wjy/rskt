@@ -1,13 +1,17 @@
 package com.rskt.system.domain;
 
 import lombok.Data;
-import org.springframework.web.multipart.MultipartFile;
+import lombok.NoArgsConstructor;
 
 import java.io.Serializable;
 
 @Data
+@NoArgsConstructor
 public class PythonApiRequest implements Serializable {
-    private MultipartFile voice;
+
+    private static final long serialVersionUID = 1L;
+
+    private String voice;
     private float rate;
     private int width;
 

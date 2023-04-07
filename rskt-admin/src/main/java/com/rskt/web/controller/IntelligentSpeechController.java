@@ -7,6 +7,8 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import javax.servlet.http.HttpServletResponse;
+
 @RestController
 @RequestMapping("intelligentSpeech")
 public class IntelligentSpeechController {
@@ -15,8 +17,8 @@ public class IntelligentSpeechController {
     private IIntelligentSpeechService iIntelligentSpeechService;
 
     @PostMapping("/speechDeal")
-    public void speechDell()
+    public String speechDell(HttpServletResponse response)
     {
-        iIntelligentSpeechService.startRecognize();
+        return iIntelligentSpeechService.startRecognize(response);
     }
 }
